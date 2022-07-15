@@ -16,3 +16,14 @@ li a{
     text-decoration: none;
     color: rgb(14, 131, 131);
 }
+.more{
+    display: none;
+    position: absolute;
+    color: rgb(198, 62, 201);
+    background-color: rgb(225, 234, 192);
+}
+nav > ul > li:hover > ul{
+    display: block;
+    padding: 0%;
+   
+}
