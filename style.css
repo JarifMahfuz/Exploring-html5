@@ -1,5 +1,18 @@
 h1{
     font-size: 50px;
+    font-weight: 900;
     text-align: center;
     color: blueviolet;
+}
+h2{
+    color: rgb(111, 159, 213);
+}
+.blog p{
+     color: rgb(37, 58, 83);
+     font-weight: 500;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+    color: brown;
 }
